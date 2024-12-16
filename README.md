@@ -4,7 +4,7 @@ The MultiPDF Chat App is a Python application that allows you to chat with multi
 
 ## How It Works
 MultiPDF Chat App Diagram
-
+![PDF-LangChain](https://github.com/user-attachments/assets/cc23f0fa-7720-480f-a6e4-bad2047fdb25)
 
 The application follows these steps to provide responses to your questions:
 
@@ -32,7 +32,6 @@ OPENAI_API_KEY=your_secrit_api_key
 
 ## Usage
 To use the MultiPDF Chat App, follow these steps:
-![PDF-LangChain](https://github.com/user-attachments/assets/cc23f0fa-7720-480f-a6e4-bad2047fdb25)
 
 Ensure that you have installed the required dependencies and added the OpenAI API key to the .env file.
 
